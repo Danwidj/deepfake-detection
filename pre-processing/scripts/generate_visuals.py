@@ -41,7 +41,7 @@ for path in data_path:
 
         if num_frames > 5:
             df[f'{feature}_segmented'] = df[feature].apply(lambda x: average_segments(x, 5))
-            frame_labels = [f"Segment {i+1}" for i in range(5)]
+            frame_labels = [f"{i+1}" for i in range(5)]
         else:
             df[f'{feature}_segmented'] = df[feature]
             frame_labels = [f"{i+1}" for i in range(num_frames)]
