@@ -54,7 +54,3 @@ Each approach has its own documentation and usage instructions within its respec
 ## Contributing
 
 This project is part of IS424 AY24/25 Data Mining and Business Analysis course. For any questions or contributions, please contact the project team.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
