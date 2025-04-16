@@ -3,8 +3,24 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Data directory
-data/
+
+# Video and Image files
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.heic
+*.heif
+*.mov
+*.avi
+*.wmv
+*.flv
+*.mkv
+*.webm
 
 # C extensions
 *.so
