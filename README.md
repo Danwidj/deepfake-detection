@@ -24,7 +24,7 @@ This project aims to develop and compare different methods for detecting deepfak
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/deepfake-detection.git
+git clone https://github.com/danwidj/deepfake-detection.git
 cd deepfake-detection
 ```
 
