@@ -19,6 +19,10 @@ This project aims to develop and compare different methods for detecting deepfak
 └── venv/                 # Python virtual environment
 ```
 
+## Dataset
+
+The project uses different datasets for various approaches to deepfake detection. Please refer to the README files in each respective folder under data
+
 ## Setup Instructions
 
 1. Clone the repository:
