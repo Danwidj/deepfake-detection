@@ -1,4 +1,4 @@
-# Obtaining results using traditional classification methods
+# Obtaining Results using Traditional Classification Methods
 
 This project focuses on building and evaluating machine learning models to detect deepfake content. Using labeled datasets of authentic and deepfake samples, we train classifiers, assess their performance, and visualize key evaluation metrics.
 
