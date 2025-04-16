@@ -6,9 +6,15 @@ This project focuses on building and evaluating machine learning models to detec
 
 ## Project Structure
 
-- `classification.ipynb` — Jupyter Notebook containing all code for data processing, model training, evaluation, and visualization.
-- `pdd_features.csv` — Extracted data for train set
-- `eval_features.csv` — Extracted data for test set
+All key files are located in the `scripts/` folder:
+
+- `scripts/classification.ipynb` — Jupyter Notebook containing all code for:
+  - Data preprocessing
+  - Model training and evaluation
+  - Visualizations (confusion matrix etc.)
+- `scripts/pdd_features.csv` — Extracted features for the **training set**.
+- `scripts/eval_features.csv` — Extracted features for the **test set**.
+
 - `README.md` — You're here!
 
 ---
@@ -20,7 +26,7 @@ This project focuses on building and evaluating machine learning models to detec
 - Evaluation using:
   - Accuracy
   - Precision / Recall / F1-Score
-  - ROC Curve and AUC
+  - AUC
   - Confusion Matrix (with TP as Predicted: Deepfake / Actual: Deepfake)
 
 ---
